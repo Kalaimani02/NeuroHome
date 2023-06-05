@@ -17,7 +17,7 @@ The receiver's are notified of new data by setting the NewInst variable to True 
 The receiver node is also a NodeMCU. After receiving the data, the receiver runs the below mentioned algorithm to control the appliance.
 
 # Algorithm
-      The algorithm used is very simple, if the user focuses his attention value will increase, and if it exceeds a certain threshold, the appliance will toggle ON/OFF. 
+     The algorithm used is very simple, if the user focuses his attention value will increase, and if it exceeds a certain threshold, the appliance will toggle ON/OFF. 
 **Note:** This is a short-term project and the processing is limited by the hardware. Hence only simple algorithm is used. Feel free to suggest new algorithms to improve :)
 
 # Usage 
