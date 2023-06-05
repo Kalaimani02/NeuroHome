@@ -2,7 +2,7 @@
 #include <FirebaseESP8266.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "<Your_Firebase_Host_address"
+#define FIREBASE_HOST "<Your_Firebase_Host_address>"
 #define FIREBASE_AUTH "<Your_Auth_Key>"
 #define WIFI_SSID "<Your_WiFi_ssid>"
 #define WIFI_PASSWORD "<Your_Wifi_pass>"
