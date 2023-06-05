@@ -22,9 +22,11 @@ The algorithm used is very simple, if the user focuses his attention value will 
 
 ## Setup
 <p align="center">
-<img src="https://github.com/Kalaimani02/NeuroHome/assets/89019323/4e7f648c-0391-4f85-9175-26d574e7bc58" width=85% height=85%>
-<img src="https://github.com/Kalaimani02/NeuroHome/assets/89019323/b88db442-b13a-4b43-b393-15865afdee42" width=84% height=84%>
+<img src="https://github.com/Kalaimani02/NeuroHome/assets/89019323/743b892e-e345-4295-ac7e-2d64f98d7706" width=85% height=85%>
+<img src="https://github.com/Kalaimani02/NeuroHome/assets/89019323/a9c1e5e2-fc84-4b26-945c-8b0a84684ae4" width=84% height=84%>
 </p>
+<!-- ![image](https://github.com/Kalaimani02/NeuroHome/assets/89019323/743b892e-e345-4295-ac7e-2d64f98d7706)
+![image](https://github.com/Kalaimani02/NeuroHome/assets/89019323/a9c1e5e2-fc84-4b26-945c-8b0a84684ae4) -->
 
 ## Software and Hardware requirements
 1. Create a Realtime database in Firebase
